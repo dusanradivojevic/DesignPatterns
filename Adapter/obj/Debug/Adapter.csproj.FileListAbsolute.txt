@@ -1,0 +1,9 @@
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\bin\Debug\Adapter.exe.config
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\bin\Debug\Adapter.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\bin\Debug\Adapter.pdb
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\bin\Debug\Newtonsoft.Json.dll
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\bin\Debug\Newtonsoft.Json.xml
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\obj\Debug\Adapter.csproj.CopyComplete
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\obj\Debug\Adapter.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Adapter\obj\Debug\Adapter.pdb

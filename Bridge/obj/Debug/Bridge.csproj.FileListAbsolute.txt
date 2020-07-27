@@ -1,0 +1,6 @@
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\bin\Debug\Bridge.exe.config
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\bin\Debug\Bridge.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\bin\Debug\Bridge.pdb
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\obj\Debug\Bridge.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Bridge\obj\Debug\Bridge.pdb

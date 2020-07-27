@@ -1,0 +1,9 @@
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\bin\Debug\Builder.exe.config
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\bin\Debug\Builder.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\bin\Debug\Builder.pdb
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.Form1.resources
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.Properties.Resources.resources
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Builder\obj\Debug\Builder.pdb
