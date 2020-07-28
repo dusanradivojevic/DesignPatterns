@@ -1,0 +1,6 @@
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\bin\Debug\Strategy.exe.config
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\bin\Debug\Strategy.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\bin\Debug\Strategy.pdb
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\obj\Debug\Strategy.exe
+D:\FON\Kursevi\Dizajn Paterni\DizajnPaterni\Strategy\obj\Debug\Strategy.pdb
